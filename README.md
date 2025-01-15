@@ -12,9 +12,7 @@ My journey into Quality Assurance began with an internship at Indomaret Group, w
 
 At PT Indomarco Prismatama, I further honed my QA skills by creating and managing test cases for two products with three user roles, totaling over 150 test cases. I played a key role in analyzing test results and reporting findings to the development team. Collaborating closely with developers to address and resolve bugs deepened my understanding of both manual and automated testing processes.
 
-Currently, I am working as a Software Quality Assurance and Application Support at Mostrans. In this role, I perform both manual and automation testing using WebDriverIO and Cypress with JavaScript. I create comprehensive technical documentation to guide users and internal teams, and monitor and test API functionality with Postman.
-
-I am responsible for ensuring system continuity through daily checks and managing over 500-800 support tickets per month, demonstrating a commitment to user satisfaction. My efforts in implementing support innovations have led to a 15% reduction in monthly support tickets. Additionally, I oversee the delivery of support innovations through UAT and live production phases, ensuring effective implementation and continuous improvement of solutions.
+Currently, I am working as a Software Quality Assurance at Mostrans. In this role, I perform both manual and automation testing using Selenium with Python, WebDriverIO and Cypress with JavaScript. I create comprehensive technical documentation to guide users and internal teams, and monitor and test API functionality with Postman.
 
 These experiences have significantly enhanced my technical and analytical skills and have fueled my passion for QA. I am now eager to continue growing in this field, particularly in test automation, to further refine my expertise and contribute effectively to the quality of digital products.
 
@@ -27,6 +25,8 @@ These experiences have significantly enhanced my technical and analytical skills
 * [DBeaver](https://dbeaver.io/) - SQL tool for database management and querying.
 * [Postman](https://www.postman.com/) - API testing.
 * [Cypress](https://www.cypress.io/) - Automation testing framework for end-to-end testing.
+* [Selenium](https://www.selenium.dev/) - Framework for automating web applications using various browsers.
+* [Python](https://www.python.org/) - Programming language used for scripting, automation, and testing.
 * [WebDriverIO](https://webdriver.io/) - Automation testing framework for web applications.
 * [Katalon](https://katalon.com/)  - Automation testing tool for web, API, and mobile testing.
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editor used for writing and editing code.
@@ -66,3 +66,4 @@ These experiences have significantly enhanced my technical and analytical skills
 *Logistics Web*
 * [Automation Script Cypress](https://github.com/esmeraldawgs/cypress-automation-test-logistics-web.git)
 * [Automation Script WebDriverIO](https://github.com/esmeraldawgs/wdio-automation-test-logistics-web.git)
+* [Automation Script Selenium](https://github.com/esmeraldawgs/selenium-logisticsweb.git)
